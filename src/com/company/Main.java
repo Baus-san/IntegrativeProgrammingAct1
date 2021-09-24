@@ -21,7 +21,7 @@ class Compute {
         return x * y;
     }
 
-    int getQuotient(int x, int y) {
+    double getQuotient(double x, double y) {
         return x / y;
     }
 
